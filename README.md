@@ -92,8 +92,8 @@ travel-card-showcase/
 ├── app/
 │   ├── layout.jsx
 │   └── page.jsx
-    └── globals.css
-├── public/
+│   └── globals.css
+└── public/
 ```
 
 ## Contributing
