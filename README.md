@@ -1,6 +1,6 @@
 # Travel Card Showcase
 
-A modern, responsive travel destination card showcase built with Next.js and Tailwind CSS. Features multiple card layouts with a consistent design system and accessibility features.
+A modern, responsive travel destination card showcase built with the AI of V0, Next.js and Tailwind CSS. Features multiple card layouts with a consistent design system and accessibility features.
 
 ![Travel Card Showcase Preview](screenshot.png)
 
@@ -15,7 +15,7 @@ A modern, responsive travel destination card showcase built with Next.js and Tai
 
 ## Technologies
 
-- Next.js 13 (App Router)
+- Next.js 15 (App Router)
 - React 18
 - Tailwind CSS
 - TypeScript
@@ -90,16 +90,10 @@ Each card is fully customizable through props and can be adapted to different us
 ```
 travel-card-showcase/
 ├── app/
-│   ├── layout.tsx
-│   └── page.tsx
-├── components/
-│   └── TravelCardShowcase.tsx
-├── hooks/
-│   └── useCustomTheme.ts
-├── public/
-│   └── images/
-└── styles/
+│   ├── layout.jsx
+│   └── page.jsx
     └── globals.css
+├── public/
 ```
 
 ## Contributing
